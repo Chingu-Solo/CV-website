@@ -88,8 +88,7 @@ hr {
 .sunshine{
 
 	color: #606060;
-	position: relative;
-	left:	12rem;
+	margin-left:	12rem;
 }
 
 .pro {
@@ -105,10 +104,15 @@ hr {
 	margin: 0 auto;
 }
 
+
 .skill-rows{
 	width: 50%;
-	margin: 50px auto;
+	margin: 50px auto ;
 	text-align: left;
+}
+
+.web-ref-link{
+	text-decoration: none;
 }
 
 .my-hobbies {
