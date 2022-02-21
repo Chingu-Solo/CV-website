@@ -96,7 +96,7 @@ hr {
 }
 
 #profile-picture {
-	margin-top:	50px;
+	margin: 50px auto 0;
 }
 
 .profile-container {
@@ -238,7 +238,7 @@ p {
 	}
 
 .cloud{
-		width: 8rem;
+		width: 6rem;
 		position: none;
 		right: 8rem;
 	}
